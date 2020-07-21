@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+  - Multiple View Geometry in Computer Vision
+  - Preference Learning from NLP
+- 🤔 I’m looking for internship in
+  - Computer Vision/3D Vision/Machine Learning
+  - Shanghai/Hangzhou/Shenzhen, China
+- 📫 How to reach me: wufeim@purdue.edu
+
 <!--
 **wufeim/wufeim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
