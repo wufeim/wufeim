@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- ⛳️ My research interests:
+  - Computer vision, 3D vision
+  - Machine perception
+  - Applications in UAV and autonomous car
 - 🔭 I’m currently working on ...
   - Multiple View Geometry in Computer Vision
   - Preference Learning from NLP
