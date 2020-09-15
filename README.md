@@ -1,15 +1,11 @@
 ### Hi there 👋
 
-- ⛳️ My research interests:
-  - Computer vision, 3D vision
-  - Machine perception
-  - Applications in UAV and autonomous car
 - 🔭 I’m currently working on ...
-  - Multiple View Geometry in Computer Vision
-  - Preference Learning from NLP
-- 🤔 I’m looking for internship in
-  - Computer Vision/3D Vision/Machine Learning
-  - Shanghai/Hangzhou/Shenzhen, China
+  - Monocular 3D Object Detection
+- 🤔 My undergraduate research topics ...
+  - Microstructure Characterization with Computer Vision
+  - Generative Adversarial Networks
+  - Preference Learning with NLP
 - 📫 How to reach me: wufeim@purdue.edu
 
 <!--
