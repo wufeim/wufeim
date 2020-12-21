@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on ...
   - Monocular 3D Object Detection
-- 🤔 My undergraduate research topics ...
+  - Image/Video Compression
+- 🤔 My previous research focuses ...
   - Microstructure Characterization with Computer Vision
   - Generative Adversarial Networks
   - Preference Learning with NLP
