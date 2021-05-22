@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ...
+  - 3D Object Detection
   - Image/Video Compression
 - 🤔 My previous research focuses ...
   - Microstructure Characterization with Computer Vision
   - Generative Adversarial Networks
   - Preference Learning with NLP
   - Monocular 3D Object Detection
-- 📫 How to reach me: wufeim@purdue.edu
+- 📫 How to reach me: wufeim@gmail.com
 
 <!--
 **wufeim/wufeim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
