@@ -5,21 +5,15 @@
 - 3D Vision
 - Scene-Text VQA
 
-----
-
 🌱 **Community**:
 
 - Reviewer: ICLR, CVPR, ICML, ECCV
 - Volunteer: ICLR
 
-----
-
 😄 **I am open to**:
 
 - collaboration opportunities
 - paper review, tutorial, workshop
-
-----
 
 📫 **Contact me by**:
 
